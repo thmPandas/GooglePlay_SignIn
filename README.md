@@ -1,4 +1,4 @@
 # GooglePlay_SignIn
 
-# for logging in For Unity
+for logging in For Unity
 
